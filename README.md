@@ -8,7 +8,11 @@ Bench test Code:-
 
 
 On Drone Code:-
-  - Use dsr_nema23_002_6.ino - for folding and opening the pipe
+  - Use dsr_nema23_002_6.ino - for folding and opening the pipe (Rope Folding type)
   - Below is the DSR v1 
   - ![DSR_v1](https://github.com/user-attachments/assets/ded05566-99d6-4740-bd5c-0a581e30f1ac)
+
+#### On Drone Code:- Updated on 16-feb-2026 (Changed Rope folding to Belt Folding)
+  - Use "dsr_nema23_002_7.ino" - For Belt Folding
+  
 
