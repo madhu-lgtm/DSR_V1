@@ -67,7 +67,7 @@ volatile int ch10_val = ch10_min; //initial read value
 
 // logic
 bool is_fold = HIGH;//monitor the state of pipes (fold or unfold)
-int steps_to_close_or_open = 300;//Updated For Belt Folding :- 100-> 800 -> 300
+int steps_to_close_or_open = 400;//Updated For Belt Folding :- 100-> 800 -> 300 ->
 int dt = 500; //program running delay
 
 void read_pwm()
